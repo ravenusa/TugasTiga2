@@ -1,0 +1,10 @@
+G:\SEMESTER 3\Pemro Lanjut\FilePraktek\TugasTiga2\bin\Debug\TugasTiga2.exe.config
+G:\SEMESTER 3\Pemro Lanjut\FilePraktek\TugasTiga2\bin\Debug\TugasTiga2.exe
+G:\SEMESTER 3\Pemro Lanjut\FilePraktek\TugasTiga2\bin\Debug\TugasTiga2.pdb
+G:\SEMESTER 3\Pemro Lanjut\FilePraktek\TugasTiga2\obj\Debug\TugasTiga2.csprojAssemblyReference.cache
+G:\SEMESTER 3\Pemro Lanjut\FilePraktek\TugasTiga2\obj\Debug\TugasTiga2.Form1.resources
+G:\SEMESTER 3\Pemro Lanjut\FilePraktek\TugasTiga2\obj\Debug\TugasTiga2.Properties.Resources.resources
+G:\SEMESTER 3\Pemro Lanjut\FilePraktek\TugasTiga2\obj\Debug\TugasTiga2.csproj.GenerateResource.cache
+G:\SEMESTER 3\Pemro Lanjut\FilePraktek\TugasTiga2\obj\Debug\TugasTiga2.csproj.CoreCompileInputs.cache
+G:\SEMESTER 3\Pemro Lanjut\FilePraktek\TugasTiga2\obj\Debug\TugasTiga2.exe
+G:\SEMESTER 3\Pemro Lanjut\FilePraktek\TugasTiga2\obj\Debug\TugasTiga2.pdb
